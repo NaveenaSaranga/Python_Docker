@@ -1,2 +1,2 @@
-# Python_dockerized
-python application to a docker based container.
+# Python_docker
+python application/script into a docker based container.
